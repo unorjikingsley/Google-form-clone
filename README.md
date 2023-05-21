@@ -1,4 +1,4 @@
-# quizzy-js
+# Google form clone 
 
 
 This is a basic JavaScript quiz website that allows users to test their knowledge of JavaScript concepts.
@@ -50,4 +50,4 @@ Contributions are welcome! If you would like to contribute to this project, plea
 This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
-For any questions or inquiries, please contact [gakiiberyl@gmail.com](mailto:unorjikingsley@gmail.com).
+For any questions or inquiries, please contact [unorjikingsley@gmail.com](mailto:unorjikingsley@gmail.com).
