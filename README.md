@@ -1,6 +1,5 @@
 # Google form clone 
 
-
 This is a basic JavaScript quiz website that allows users to test their knowledge of JavaScript concepts.
 
 ## Features
@@ -12,7 +11,7 @@ This is a basic JavaScript quiz website that allows users to test their knowledg
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Here is the link to the live experience](upcoing).
+- [Here is the link to the live experience](upcoming).
 ## Technologies Used
 
 - HTML5: Markup language used for structuring the webpages.
